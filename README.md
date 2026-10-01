@@ -68,6 +68,9 @@ ProfileHub/
 
 ## Demo
 
+<img width="1578" height="700" alt="profilehub1" src="https://github.com/user-attachments/assets/f9e2d0c3-e10c-47a3-a33c-6264747c999d" />
+
+
 ![ProfileHub](https://github.com/user-attachments/assets/417894a5-e9b8-4d01-9343-587b47e88a6e)
 
 ![ProfileHub](https://github.com/user-attachments/assets/564bdc6f-5f26-4b69-99a2-1de011e030aa)
