@@ -37,6 +37,12 @@ ProfileHub brings professional information, resume management, cover letters, in
 - Lucide React
 - Animate.css
 
+## Demo
+
+<img width="1578" height="700" alt="profilehub1" src="https://github.com/user-attachments/assets/417894a5-e9b8-4d01-9343-587b47e88a6e" />
+
+<img width="1569" height="3494" alt="profilehub" src="https://github.com/user-attachments/assets/564bdc6f-5f26-4b69-99a2-1de011e030aa" />
+
 ## Project Structure
 
 ```text
@@ -65,21 +71,6 @@ ProfileHub/
 ├── tsconfig.json
 ├── vite.config.ts
 └── README.md
-
-## Demo
-
-![ProfileHub](https://github.com/user-attachments/assets/417894a5-e9b8-4d01-9343-587b47e88a6e)
-
-![ProfileHub](https://github.com/user-attachments/assets/564bdc6f-5f26-4b69-99a2-1de011e030aa)
-
-https://github.com/user-attachments/assets/417894a5-e9b8-4d01-9343-587b47e88a6e
-
-
-https://github.com/user-attachments/assets/564bdc6f-5f26-4b69-99a2-1de011e030aa
-
-<img width="1578" height="700" alt="profilehub1" src="https://github.com/user-attachments/assets/417894a5-e9b8-4d01-9343-587b47e88a6e" />
-
-<img width="1569" height="3494" alt="profilehub" src="https://github.com/user-attachments/assets/564bdc6f-5f26-4b69-99a2-1de011e030aa" />
 
 
 Getting Started
